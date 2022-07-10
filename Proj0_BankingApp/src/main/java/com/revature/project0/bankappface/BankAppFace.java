@@ -36,6 +36,7 @@ public static void main(String[] args) {
 	} 
 	finally {
 		sc.close();
+		System.out.println("Thank you for using this Bank App");
 	}
 	
 }//end main
